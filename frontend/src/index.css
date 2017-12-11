@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background: #dbdbdb;
+}
+
+.glyphicon-thumbs-up:hover,
+.glyphicon-thumbs-down:hover {
+    cursor: pointer;
+}
+
+.glyphicon-thumbs-up:hover {
+    color: green;
+}
+
+.glyphicon-thumbs-down:hover:hover {
+    color: red;
+}
+
+.glyphicon-comment .text {
+    margin-left: 3px;
+    vertical-align: 3px;
+}

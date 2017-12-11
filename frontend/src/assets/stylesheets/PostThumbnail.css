@@ -1,0 +1,48 @@
+.post-thumbnail .main {
+    margin-right: 10px;
+    height: 300px;
+    background: #9bd9ff;
+    position: relative;
+    padding-bottom: 50px;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 1%;
+    box-shadow: 1px 1px 1px 1px gray;
+    font-size: 1.1em;
+    color: rgb(55, 52, 52);
+    margin-bottom: 3%;
+}
+
+.post-thumbnail .main footer {
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 95%;
+    border-top: 2px solid rgba(255, 148, 40, 0.255);
+    padding-right: 3%;
+}
+
+.post-thumbnail .main .glyphicon-comment {
+    float: right;
+}
+
+.post-thumbnail .main .post-title {
+    color: #484747;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+.post-thumbnail .main .post-thumbnail:hover {
+    border-top: 3px solid #aaaaaa;
+}
+
+.post-thumbnail .main .post-info {
+    font-style: italic;
+    font-size: .9em;
+    color: rgb(77, 38, 38);
+}
+
+.post-thumbnail .main .post-title:hover {
+    cursor: pointer;
+    color: #ff9428;
+}

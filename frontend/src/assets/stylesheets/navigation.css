@@ -1,0 +1,29 @@
+.add-new-post-icon:hover {
+    color: #50bdff;
+    cursor: pointer;
+}
+
+.add-new-post-icon {
+    color: orange
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+#brand {
+    color: #50bdff;
+    font-size: 1.4em;
+}
+
+#brand:hover {
+    color: #9bd9ff;
+}
+
+.nav-item {
+    font-size: 1.2em;
+}
+
+.nav-item:hover {
+    border-bottom: 1px solid orange;
+}

@@ -1,0 +1,66 @@
+.post .post-action .glyphicon-edit:hover {
+    color: green;
+    cursor: pointer;
+}
+
+.post .post-action .glyphicon-remove:hover {
+    color: red;
+    cursor: pointer;
+}
+
+.post .post-action {
+    float: right;
+}
+
+.post .post-main {
+    margin-bottom: 3%;
+    padding-left: 2%;
+}
+
+.post .post-main footer {
+    border-top: 1px solid rgba(220, 199, 199, 0.5);
+    padding-top: 1%;
+}
+
+.post .post-body {
+    color: #5e5252;
+    font-size: 1.1em;
+}
+
+.post .container {
+    margin-top: 10%;
+    background: rgba(155, 217, 255, .3);
+    padding-bottom: 2%;
+}
+
+.post .post-title {
+    color: #ff9428;
+    margin-bottom: 3%;
+    font-size: 2.5em;
+    letter-spacing: .6px;
+    word-spacing: 3px;
+}
+
+.post .post-title:hover {
+    cursor: default;
+}
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.post .new-comment {
+    background: rgba(219, 219, 219, .3);
+    padding: 3%;
+}
+
+.post .container {
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+
+.post .post-info {
+    font-style: italic;
+    font-size: .9em;
+    color: rgb(77, 38, 38);
+}

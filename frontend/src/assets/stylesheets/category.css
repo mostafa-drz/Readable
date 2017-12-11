@@ -1,0 +1,18 @@
+.nav-heading {}
+
+.nav-heading h1 {
+    font-size: 8em;
+    color: rgb(85, 85, 85);
+    margin-right: 60%;
+    margin-left: 40%;
+}
+
+.nav-heading .glyphicon-arrow-left {
+    font-size: 3em;
+    width: 200%;
+}
+
+.nav-heading .glyphicon-arrow-left:hover {
+    cursor: pointer;
+    color: gray;
+}
